@@ -1,0 +1,7 @@
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\obj\Debug\EjercicioPlagas.csprojAssemblyReference.cache
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\obj\Debug\EjercicioPlagas.csproj.CoreCompileInputs.cache
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\bin\Debug\EjercicioPlagas.exe.config
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\bin\Debug\EjercicioPlagas.exe
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\bin\Debug\EjercicioPlagas.pdb
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\obj\Debug\EjercicioPlagas.exe
+C:\EjeploDos\EjTareaPlagas_02\EjercicioPlagas\EjercicioPlagas\obj\Debug\EjercicioPlagas.pdb

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjercicioPlagas.Program" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Trabajador">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trabajadores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Cargo">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Servicio">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAARAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Recurso">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAABAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Recursos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Cliente">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAAAAAAAAAgACAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Factura">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAQEAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjercicioPlagas.Plaga">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plaga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPlagas.Veneno">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAgAAAAAAAAAAAAAAAACgAAAAAAAAAA=</HashCode>
+      <FileName>Veneno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
